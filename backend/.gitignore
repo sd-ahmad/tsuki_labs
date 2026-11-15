@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+analog_cache/
+analog_cache.tar.gz
+raw_data/
+*_lookup.json
